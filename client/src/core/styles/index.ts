@@ -1,1 +1,0 @@
-export { ThemeProject } from "./theme";
