@@ -9,5 +9,5 @@ public class MedusaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MedusaApplication.class, args);
 	}
-//		System.out.println(" Projeto iniciado com sucesso! ");
+		System.out.println(" Projeto iniciado com sucesso! ");
 }
