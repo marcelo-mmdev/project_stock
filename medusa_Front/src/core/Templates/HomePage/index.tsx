@@ -104,6 +104,7 @@ const HomePage = () => {
                 <Box as={"form"} mt={10}>
                   <Stack spacing={4}>
                     <Input
+                      type="text"
                       placeholder="Usuário"
                       bg={"gray.100"}
                       border={0}
